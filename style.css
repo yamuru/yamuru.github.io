@@ -1,0 +1,103 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("/fonts/Roboto-Regular.ttf") format("opentype") 
+}
+
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: #eee;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 45px;
+}
+
+h4 {
+    margin-top: 30px;
+}
+
+.content-container {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.header__title {
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+.header__title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.page__content {
+    min-height: 500px;
+    padding: 20px 20px;
+    padding-bottom: 40px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.page__text {
+    text-align: center;
+}
+
+.page__text--bold {
+    font-weight: 700;
+}
+
+.page__space {
+    width: 100%;
+    height: 400px;
+}
+
+.page__little-space {
+    width: 100%;
+    height: 5px;
+}
+
+.footer {
+    margin-top: 20px;
+    padding: 20px 20px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.list {
+    margin-left: 10px;
+    list-style: none;
+}
+
+.list li {
+    font-weight: 700;
+}
+
+@media screen and (min-width: 480px) {
+    .content-container {
+        width: 480px;
+    }
+}
+
+@media screen and (min-width: 760px) {
+    .content-container {
+        width: 760px;
+    }
+}
+
+@media screen and (min-width: 960px) {
+    .content-container {
+        width: 960px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .content-container {
+        width: 1200px;
+    }
+}
