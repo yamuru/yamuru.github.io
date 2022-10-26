@@ -29,7 +29,7 @@ openx.com, 540773939, RESELLER, 6a698e2ec38604c6
 appnexus.com, 11236, RESELLER, f5ab79cb980f11d12
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
-facebook.com, 630072208493995, RESELLER, c3e20eee3f780d68
+facebook.com, 1113152189575972, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
